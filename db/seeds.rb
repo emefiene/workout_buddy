@@ -6,6 +6,7 @@
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
 u1 = User.create( name: "John", color: "Mike", car: "honda")
-u2 = User.create( name: "John", color: "Mike", car: "honda")
-u3 = User.create( name: "John", color: "Mike", car: "honda")
+u2 = UserMike", car: "honda")
 u4 = User.create( name: "John", color: "Mike", car: "honda")
+.create( name: "John", color: "Mike", car: "honda")
+u3 = User.create( name: "John", color: "
